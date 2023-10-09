@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 <!--
 **IvorToth/IvorToth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ivor Toth and I am a student at Northeastern University!
+
+Major: Cybersecurity
+Expected Graduation Date: Spring 2027
