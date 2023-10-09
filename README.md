@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 My name is Ivor Toth and I am a student at Northeastern University!
-
-Major: Cybersecurity
-Expected Graduation Date: Spring 2027
